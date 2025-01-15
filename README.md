@@ -1,4 +1,4 @@
-Hi, I am a seasoned **Project Engineer** specializing in embedded systems, robotics, and automation.
+Hi, I am a seasoned **Design and Project Engineer** specializing in embedded systems, robotics, and automation.
 
 Over the years, I have amassed extensive experience in developing and leading work teams for complex engineering projects.
 
